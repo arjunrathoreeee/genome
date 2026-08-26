@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?><Error><Code>SignatureDoesNotMatch</Code><Message>Access denied.</Message><Details>The request signature we calculated does not match the signature you provided. Check your Google secret key and signing method.</Details><StringToSign>GOOG4-RSA-SHA256
+20260826T153057Z
+20260826/auto/storage/goog4_request
+5c30890ff195ec7a6d9d3f021391d225473125f2d258341e7ad4cd1baa15c3de</StringToSign><CanonicalRequest>GET
+/kagglesdsdata/datasets/8725509/13715415/Dataset%20on%20the%20Impact%20of%20Social%20Media%20Algorithms%20o/Impacto%20dos%20Algoritmos%20das%20Redes%20Sociais%20no%20Comportamento%20de%20Consumo%20em%20Rondon%20do%20Par%C3%A1.csv
+X-Goog-Algorithm=GOOG4-RSA-SHA256&amp;X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20260826%2Fauto%2Fstorage%2Fgoog4_request&amp;X-Goog-Date=20260826T153057Z&amp;X-Goog-Expires=259200&amp;X-Goog-SignedHeaders=host
+host:storage.googleapis.com
+
+host
+UNSIGNED-PAYLOAD</CanonicalRequest></Error>
